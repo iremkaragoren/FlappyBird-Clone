@@ -1,3 +1,5 @@
+Key Features of the Game
+
 • Parallax Effect: Provides a sense of depth.
 
 • Infinite Loop: Keeps gameplay continuous.
